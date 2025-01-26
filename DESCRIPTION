@@ -11,3 +11,6 @@ LazyData: true
 Depends: 
     R (>= 3.5)
 RoxygenNote: 7.3.0
+Imports: 
+    ggplot2
+URL: https://lucymcgowan.github.io/mdr/
