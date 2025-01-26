@@ -1,49 +1,49 @@
 season,episode,time,character,pitch,io,action,note
 1,1,08:48,oMark,Bb,outie,enters,"enters elevator: ID beeps, down arrow turns on"
-1,1,09:07,oMark,G,outie,sleep,goes to sleep in the elevator
+1,1,09:07,oMark,G,outie,sleeps,goes to sleep in the elevator
 1,1,09:12,iMark,C#,innie,wakes up,wakes up in the elevator
 1,1,33:27,iMark,Bb,innie,enters,"enters elevator: ID beeps, up arrow turns on"
-1,1,33:39,iMark,G,innie,sleep,goes to sleep in the elevator
+1,1,33:39,iMark,G,innie,sleeps,goes to sleep in the elevator
 1,1,33:43,oMark,C#,outie,wakes up,wakes up in the elevator
 1,2,05:14,Helena,C#,outie,wakes up,wakes up in the elevator
 1,2,20:55,Helly,,innie,enters,"scans into the elevator, no ding at all"
 1,3,50:19,iMark,Bb,innie,enters,"enters elevator: ID beeps, up arrow turns on"
-1,3,50:27,iMark,G,innie,sleep,goes to sleep in the elevator
+1,3,50:27,iMark,G,innie,sleeps,goes to sleep in the elevator
 1,3,50:37,oMark,C#,outie,wakes up,wakes up in the elevator
 1,4,01:56,Helly,Bb,innie,enters,Milchick signs Helly into the elevator. The elevator doors make the high frequency as they open
-1,4,02:11,Helly,G,innie,sleep,goes to sleep in the elevator
+1,4,02:11,Helly,G,innie,sleeps,goes to sleep in the elevator
 1,4,02:12,Helly,C#,innie,wakes up,wakes up in the elevator
 1,4,21:07,Helly,Bb,innie,enters,signs into the elevator
 1,4,21:09,,Bb,,,The elevator seems to BEGIN descending. Doors do not open. Sound of movement is apparent
 1,4,21:24,,Bb,,,The elevator arrives and the doors open
-1,4,21:41,Helly,G,innie,sleep,goes to sleep in the elevator
+1,4,21:41,Helly,G,innie,sleeps,goes to sleep in the elevator
 1,4,21:43,Helly,C#,innie,wakes up,wakes up in the elevator
 1,4,44:13,Helly,Bb,innie,enters,scans into the elevator
-1,5,00:12,Helly,G,innie,sleep,goes to sleep in the elevator
+1,5,00:12,Helly,G,innie,sleeps,goes to sleep in the elevator
 1,5,00:16,Helena,C#,outie,wakes up,wakes up in the elevator
 1,5,00:35,Helena,B natural,outie,enters,"Elevator doors open, Helena inside"
 1,5,00:43,Helena,B natural,outie,enters,"Elevator doors close again, Helena still inside"
 1,5,01:26,Mark,B natural,,,Elevator doors open to Mark
 1,5,02:16,iMark,Bb,innie,enters,"Graner scans Mark into the elevator, doors begin to close"
-1,5,02:24,iMark,G,innie,sleep,goes to sleep in the elevator
+1,5,02:24,iMark,G,innie,sleeps,goes to sleep in the elevator
 1,5,02:29,oMark,C#,outie,wakes up,wakes up in the elevator
 1,5,02:26,oMark,Bb,outie,enters,Elevator doors close behind oMark
-1,5,04:28,oMark,G,outie,sleep,goes to sleep in the elevator
+1,5,04:28,oMark,G,outie,sleeps,goes to sleep in the elevator
 1,5,04:29,iMark,C#,innie,wakes up,wakes up in the elevator
 1,5,08:32,oMark,Bb,outie,enters,"Elevator up button turns on; cut to oMark leaving"
 1,5,19:32,iMark,Bb,innie,enters,"Elevator doors open to Mark, Helly inside"
 1,6,27:41,iDylan,C#,innie,wakes up,wakes up at home
 1,6,28:26,oDylan,C#,outie,wakes up,wakes back up
-1,8,04:45,oMark,G,outie,sleep,"MDR's outie forms go to sleep in the elevator, four G pitches"
-1,8,04:46,oDylan,G,outie,sleep,"MDR's outie forms go to sleep in the elevator, four G pitches"
-1,8,04:47,oIrving,G,outie,sleep,"MDR's outie forms go to sleep in the elevator, four G pitches"
-1,8,04:48,Helena,G,outie,sleep,"MDR's outie forms go to sleep in the elevator, four G pitches"
+1,8,04:45,oMark,G,outie,sleeps,"MDR's outie forms go to sleep in the elevator, four G pitches"
+1,8,04:46,oDylan,G,outie,sleeps,"MDR's outie forms go to sleep in the elevator, four G pitches"
+1,8,04:47,oIrving,G,outie,sleeps,"MDR's outie forms go to sleep in the elevator, four G pitches"
+1,8,04:48,Helena,G,outie,sleeps,"MDR's outie forms go to sleep in the elevator, four G pitches"
 1,8,04:49,MDR,C#,innie,wakes up,"The innies wake up in the elevator"
 1,8,17:43,Gemma,Bb,,testing,is sent down to the testing floor
 1,8,29:17,iIrving,Bb,innie,enters,Elevator opens for Irving. Does not ding for Helly soon after.
 1,8,30:15,Helly,Bb,innie,enters,Doors close for Helly. Did not ding for Irving soon before.
 1,8,30:41,Helly,Bb,innie,enters,Doors close again for Helly
 1,8,31:05,iMark,Bb,innie,enters,Doors open for Mark
-1,9,00:13,oMDR,G,outie,sleep,go to sleep on the outside
+1,9,00:13,oMDR,G,outie,sleeps,go to sleep on the outside
 1,9,00:16,iMDR,C#,innie,wakes up,wake up on the outside
 1,9,38:40,,C#,,,"Last sound of Episode 9"

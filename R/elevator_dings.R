@@ -8,7 +8,7 @@
 #'   \item{character}{Character}
 #'   \item{pitch}{Pitch of elevator ding}
 #'   \item{io}{Innie or Outie?}
-#'   \item{action}{Action, one of: enters, sleep, wakes up}
+#'   \item{action}{Action, one of: enters, sleeps, wakes up}
 #'   \item{note}{Notes}
 #' }
 #' @source https://www.reddit.com/r/SeveranceAppleTVPlus/comments/w8imx3/a_complete_analysis_of_all_of_the_ding_sounds/

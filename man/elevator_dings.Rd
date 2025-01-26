@@ -14,7 +14,7 @@ A data frame with 48 rows and 8 columns:
   \item{character}{Character}
   \item{pitch}{Pitch of elevator ding}
   \item{io}{Innie or Outie?}
-  \item{action}{Action, one of: enters, sleep, wakes up}
+  \item{action}{Action, one of: enters, sleeps, wakes up}
   \item{note}{Notes}
 }
 }
