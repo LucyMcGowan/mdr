@@ -3,7 +3,7 @@
 \docType{data}
 \name{s2e1_transcript}
 \alias{s2e1_transcript}
-\title{Severance Episode Data}
+\title{Season 2 Episode 1 Transcript}
 \format{
 An object of class \code{data.frame} with 336 rows and 3 columns.
 }
@@ -14,6 +14,6 @@ https://severance.wiki/s2e1_transcript Accessed Jan 26 2025
 s2e1_transcript
 }
 \description{
-Severance Episode Data
+Season 2 Episode 1 Transcript
 }
 \keyword{datasets}

@@ -1,0 +1,2 @@
+#' Badge data
+"badges"
