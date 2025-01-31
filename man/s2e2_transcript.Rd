@@ -5,7 +5,7 @@
 \alias{s2e2_transcript}
 \title{Season 2 Episode 1 Transcript}
 \format{
-An object of class \code{data.frame} with 298 rows and 3 columns.
+An object of class \code{data.frame} with 490 rows and 3 columns.
 }
 \source{
 https://severance.wiki/s2e2_transcript Accessed Jan 26 2025
