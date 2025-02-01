@@ -49,10 +49,10 @@ get_transcript_data <- function(url) {
   transcript_df
 }
 
-transcripts <- map_dfr(urls, get_transcript_data)
-transcripts <- transcripts |>
+transcripts_raw <- map_dfr(urls, get_transcript_data)
+transcripts <- transcripts_raw |>
   mutate(season = as.integer(floor(episode)),
-         episode = as.integer(episode %% 1 * 10)
+         episode = as.integer(str_extract(as.character(episode), "(?<=\\.)\\d"))
   ) |>
   select(season, episode, timestamp, speaker, dialogue)
 
