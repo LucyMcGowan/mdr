@@ -5,7 +5,7 @@
 \alias{transcripts}
 \title{Severance Transcripts}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 3860 rows and 5 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 4323 rows and 5 columns.
 }
 \source{
 https://severance.wiki/list_of_severance_episodes Accessed Jan 31 2025
