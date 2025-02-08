@@ -47,3 +47,33 @@ season,episode,time,character,pitch,io,action,note
 1,9,00:13,oMDR,G,outie,sleeps,go to sleep on the outside
 1,9,00:16,iMDR,C#,innie,wakes up,wake up on the outside
 1,9,38:40,,C#,,,"Last sound of Episode 9"
+2,1,00:30,iMark,C#,innie,wakes up,wakes up in long hallway
+2,1,13:07,iMark,Bb,innie,enters,Doors open for Mark
+2,1,13:12,iMark,G,innie,sleeps,goes to sleep in elevator
+2,1,13:15,iMark,C#,outie,wakes up, wakes up in elevator
+2,1,13:21,iMark,G,innie,wakes up, wakes up in elevator
+2,1,15:24,iMark,Bb,innie,enters,Doors open for Mark
+2,1,15:29,iMark,Bb,innie,exits,Doors open for Mark
+2,1,18:40,iMark,Bb,innie,enters,Doors open for Mark
+2,1,19:12,iMark,G,innie,sleeps,goes to sleep in elevator
+2,1,20:06,iMark,C#,innie,wakes up, wakes up in elevator
+2,1,20:50,iDylan,Bb,innie,exits, Doors open for Dylan
+2,1,21:18,iIrving,Bb,innie,exits,Doors open for Irving
+2,1,22:00,Helly,Bb,innie,exits,Doors open for \'Helly\'
+2,2,37:00,oMark,Bb,outie,enters,Doors open for Mark
+2,2,37:02,oMark,Bb,outie,exits,Doors open for Mark
+2,2,37:10,oMark,Bb,outie,exits,Doors open for Mark
+2,2,37:26,oMark,G,outie,sleeps,goes to sleep in elevator
+2,2,37:31,oMark,C#,outie,wakes up,we see a zoom in on Mark's eye
+2,2,37:37,oMark,C#,outie,wakes up,we see the door and presume Mark is inside waking up (but no visual confirmation)
+2,2,37:39,oMark,Bb,outie,exits,Doors open for Mark
+2,2,39:45,oMark,Bb,outie,enters,Doors open for Mark
+2,2,39:52,oMark,G,outie,sleeps,goes to sleep in elevator
+2,2,40:20,oDylan,Bb,outie,enters,Doors open for Dylan
+2,2,40:27,oDylan,G,outie,sleeps,goes to sleep in elevator
+2,2,40:51,oIrving,Bb,outie,enters,Doors open for Irving
+2,2,40:57,oIrving,G,outie,sleeps,goes to sleep in elevator
+2,2,41:33,Helena,Bb,outie,enters,Doors open for Helena
+2,4,00:15,iIrving,G,innie,wakes up, Irving wakes up on a frozen lake at Woe's Hollow
+2,4,47:14,Helly,C#,innie,wakes up,Helly wakes up after Milchick removes the Glasgow
+
