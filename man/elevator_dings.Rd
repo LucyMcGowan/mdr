@@ -5,18 +5,7 @@
 \alias{elevator_dings}
 \title{Elevator Ding Data}
 \format{
-## `elevator_dings`
-A data frame with 48 rows and 8 columns:
-\describe{
-  \item{season}{Season}
-  \item{episode}{Episode number}
-  \item{time}{Time}
-  \item{character}{Character}
-  \item{pitch}{Pitch of elevator ding}
-  \item{io}{Innie or Outie?}
-  \item{action}{Action, one of: enters, sleeps, wakes up}
-  \item{note}{Notes}
-}
+An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 77 rows and 8 columns.
 }
 \source{
 https://www.reddit.com/r/SeveranceAppleTVPlus/comments/w8imx3/a_complete_analysis_of_all_of_the_ding_sounds/
@@ -25,6 +14,7 @@ https://www.reddit.com/r/SeveranceAppleTVPlus/comments/w8imx3/a_complete_analysi
 elevator_dings
 }
 \description{
-Elevator Ding Data
+The first part of this data set was based on data compiled by Reddit user
+Sam_Badi, the remainder was added by the package author.
 }
 \keyword{datasets}
