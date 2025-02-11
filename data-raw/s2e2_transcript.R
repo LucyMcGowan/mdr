@@ -14,7 +14,7 @@ texts <- str_trim(str_remove(dialogues, "^[^:]+:"))
 
 s2e2_transcript <- data.frame(
   timestamp = timestamps,
-  peaker = speakers,
+  speaker = speakers,
   text = texts,
   stringsAsFactors = FALSE
 )
