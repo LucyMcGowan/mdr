@@ -59,7 +59,7 @@ season,episode,time,character,pitch,io,action,note
 2,1,20:06,iMark,C#,innie,wakes up, wakes up in elevator
 2,1,20:50,iDylan,Bb,innie,exits, Doors open for Dylan
 2,1,21:18,iIrving,Bb,innie,exits,Doors open for Irving
-2,1,22:00,Helly,B,innie,exits,Doors open for \'Helly\'
+2,1,22:00,Helly,B natural,innie,exits,Doors open for 'Helly'
 2,2,37:00,oMark,Bb,outie,enters,Doors open for Mark
 2,2,37:02,oMark,Bb,outie,exits,Doors open for Mark
 2,2,37:10,oMark,Bb,outie,exits,Doors open for Mark
