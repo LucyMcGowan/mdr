@@ -1,0 +1,874 @@
+<WRAP infobox>
+| ** Trojan's Horse (Transcript)** ||
+^ Episode Number | 2.4 |
+^ Written By   | [[https://www.imdb.com/name/nm6963791/| Megan Ritchie]] |
+^ Previous Transcript | [[s2e4_transcript]] |
+^ Next Transcript | [[s2e6_transcript]] |
+</WRAP>
+
+====== Trojan's Horse (Transcript) ======
+
+This is the transcript for //[[Severance (TV show)|Severance]]//, [[s2e5]]
+
+===== Transcript =====
+
+<WRAP script>
+
+<html><a id="section000057933" class="timestamp" href="#section000057933">00:00:57</a></html>
+Doctor: Do you have them?
+
+<html><a id="section000116118" class="timestamp" href="#section000116118">00:01:16</a></html>
+Doctor: Thank you.
+
+<html><a id="section000358864" class="timestamp" href="#section000358864">00:03:58</a></html>
+Mark: Hey.
+
+<html><a id="section000359865" class="timestamp" href="#section000359865">00:03:59</a></html>
+Devon: Hey. How was the weekend thing?
+
+<html><a id="section000401742" class="timestamp" href="#section000401742">00:04:01</a></html>
+Mark: Good, I guess. Although my innie fell off a rope, apparently.
+
+<html><a id="section000405954" class="timestamp" href="#section000405954">00:04:05</a></html>
+Devon: A rope? Are you hurt?
+
+<html><a id="section000409041" class="timestamp" href="#section000409041">00:04:09</a></html>
+Mark: No, I just got a little wet, that's all.
+
+<html><a id="section000411376" class="timestamp" href="#section000411376">00:04:11</a></html>
+Devon: Jesus, it's like it never ends with these guys. Do you know what the fuck actually happened?
+
+<html><a id="section000415547" class="timestamp" href="#section000415547">00:04:15</a></html>
+Mark: I have no idea.
+
+<html><a id="section000417966" class="timestamp" href="#section000417966">00:04:17</a></html>
+Devon: Fuck. Well, how's the old "burning shit into your eyeballs" thing going?
+
+<html><a id="section000425390" class="timestamp" href="#section000425390">00:04:25</a></html>
+Mark: I still can't get it to last long enough.
+
+<html><a id="section000428477" class="timestamp" href="#section000428477">00:04:28</a></html>
+Devon: Okay. So, what do we do?
+
+<html><a id="section000431980" class="timestamp" href="#section000431980">00:04:31</a></html>
+Mark: Just keep trying, I guess.
+
+<html><a id="section000434483" class="timestamp" href="#section000434483">00:04:34</a></html>
+Devon: Do you have any other ideas?
+
+<html><a id="section000440614" class="timestamp" href="#section000440614">00:04:40</a></html>
+Mark: Hey, I'm sorry. I gotta get to work.
+
+<html><a id="section000442533" class="timestamp" href="#section000442533">00:04:42</a></html>
+Devon: All right. Bye.
+
+<html><a id="section000445786" class="timestamp" href="#section000445786">00:04:45</a></html>
+Mark: Yeah. Bye. Hey.
+
+<html><a id="section000445787" class="timestamp" href="#section000445787">00:04:45</a></html>
+Regabhi: You need to get your dryer fixed.
+
+<html><a id="section000449331" class="timestamp" href="#section000449331">00:04:49</a></html>
+Mark: Yeah. Or you could just, like, not live here.
+
+<html><a id="section000452709" class="timestamp" href="#section000452709">00:04:52</a></html>
+Regabhi: I can't keep coming in and out.
+
+<html><a id="section000456630" class="timestamp" href="#section000456630">00:04:56</a></html>
+Mark: You think they're watching us?
+
+<html><a id="section000458382" class="timestamp" href="#section000458382">00:04:58</a></html>
+Regabhi: Depends on how dumb you've played it.
+
+<html><a id="section000502427" class="timestamp" href="#section000502427">00:05:02</a></html>
+Mark: Hey, when do we keep going?
+
+<html><a id="section000504346" class="timestamp" href="#section000504346">00:05:04</a></html>
+Regabhi: Maybe tonight. I'll decide later.
+
+<html><a id="section000506640" class="timestamp" href="#section000506640">00:05:06</a></html>
+Mark: 'Cause I haven't remembered anything else.
+
+<html><a id="section000509977" class="timestamp" href="#section000509977">00:05:09</a></html>
+Regabhi: Right. Well, maybe your innie has.
+
+<html><a id="section000548390" class="timestamp" href="#section000548390">00:05:48</a></html>
+Drummond: You took the rest of the weekend to recover?
+
+<html><a id="section000551852" class="timestamp" href="#section000551852">00:05:51</a></html>
+Helena: I'm fine. Will I be updating Father later? He should hear it from me.
+
+<html><a id="section000606825" class="timestamp" href="#section000606825">00:06:06</a></html>
+Drummond: We have decided to spare him knowledge of this contretemps.
+
+<html><a id="section000617419" class="timestamp" href="#section000617419">00:06:17</a></html>
+Helena: Well, please let him know that his daughter is alive and well.
+
+<html><a id="section000620547" class="timestamp" href="#section000620547">00:06:20</a></html>
+Drummond: The medical team says your tempers will rebalance quickly.
+
+<html><a id="section000625093" class="timestamp" href="#section000625093">00:06:25</a></html>
+Helena: Good to hear.
+
+<html><a id="section000626094" class="timestamp" href="#section000626094">00:06:26</a></html>
+Drummond: Some residual trauma is to be expected after such an ordeal. Perhaps we could arrange another obligement session this evening.
+
+<html><a id="section000636021" class="timestamp" href="#section000636021">00:06:36</a></html>
+Helena: I said I'm fine.
+
+<html><a id="section000638023" class="timestamp" href="#section000638023">00:06:38</a></html>
+Natalie: We're close, Helena. What's he at, 78%?
+
+<html><a id="section000643487" class="timestamp" href="#section000643487">00:06:43</a></html>
+Drummond: Eighty-one. As of Friday.
+
+<html><a id="section000647115" class="timestamp" href="#section000647115">00:06:47</a></html>
+Natalie: It won't be much longer. You can do this.
+
+<html><a id="section000653455" class="timestamp" href="#section000653455">00:06:53</a></html>
+Helena: I'm not going back down there.
+
+<html><a id="section000656416" class="timestamp" href="#section000656416">00:06:56</a></html>
+Natalie: It won't be you. It will be your innie.
+
+<html><a id="section000700754" class="timestamp" href="#section000700754">00:07:00</a></html>
+Helena: My innie who tried to kill me? And then the other one tried to kill me. They're fucking animals. I'll just fake it again.
+
+<html><a id="section000719731" class="timestamp" href="#section000719731">00:07:19</a></html>
+Natalie: We can't take that chance.
+
+<html><a id="section000721775" class="timestamp" href="#section000721775">00:07:21</a></html>
+Drummond: We need to clean this up. Milchick's many errors this weekend have forced our hand.
+
+<html><a id="section000728699" class="timestamp" href="#section000728699">00:07:28</a></html>
+Helena: And Father approves?
+
+<html><a id="section000732411" class="timestamp" href="#section000732411">00:07:32</a></html>
+Drummond: Father encouraged it.
+
+<html><a id="section000738709" class="timestamp" href="#section000738709">00:07:38</a></html>
+Natalie: It's a risk. We know this. But there is no other solution. Mark S. won't work without her.
+
+<html><a id="section000749761" class="timestamp" href="#section000749761">00:07:49</a></html>
+Drummond: And the work is mysterious and important. So we must give him her.
+
+<html><a id="section000801481" class="timestamp" href="#section000801481">00:08:01</a></html>
+Natalie: The Board appreciates your sacrifice.
+
+<html><a id="section000833554" class="timestamp" href="#section000833554">00:08:33</a></html>
+Ms. Huang: Good morning, Helly R.
+
+<html><a id="section000837267" class="timestamp" href="#section000837267">00:08:37</a></html>
+Helly: Who the fuck are you?
+
+<html><a id="section000844274" class="timestamp" href="#section000844274">00:08:44</a></html>
+Ms. Huang: I'm Miss Huang.
+
+<html><a id="section000848946" class="timestamp" href="#section000848946">00:08:48</a></html>
+Helly: What the hell?
+
+<html><a id="section000850656" class="timestamp" href="#section000850656">00:08:50</a></html>
+Ms. Huang: Please follow me. Mr. Milchick will explain.
+
+<html><a id="section000924398" class="timestamp" href="#section000924398">00:09:24</a></html>
+Helly: Hey.
+
+<html><a id="section000924399" class="timestamp" href="#section000924399">00:09:24</a></html>
+Mark: Hey.
+
+<html><a id="section000926567" class="timestamp" href="#section000926567">00:09:26</a></html>
+Mark: Is she...
+
+<html><a id="section000926567" class="timestamp" href="#section000926567">00:09:26</a></html>
+Ms Huang: Her innie.
+
+<html><a id="section000931196" class="timestamp" href="#section000931196">00:09:31</a></html>
+Milchick: MDR. Together again. Come on in.
+
+<html><a id="section000937953" class="timestamp" href="#section000937953">00:09:37</a></html>
+Helly: I need to know what's going on. Like, right now.
+
+<html><a id="section000940914" class="timestamp" href="#section000940914">00:09:40</a></html>
+Dylan: Where's Irving?
+
+<html><a id="section000942332" class="timestamp" href="#section000942332">00:09:42</a></html>
+Helly: And why was he trying to drown me?
+
+<html><a id="section000943917" class="timestamp" href="#section000943917">00:09:43</a></html>
+Dylan: 'Cause you're a fucking Eagan.
+
+<html><a id="section000945878" class="timestamp" href="#section000945878">00:09:45</a></html>
+Mark: Was she spying on us?
+
+<html><a id="section000945879" class="timestamp" href="#section000945879">00:09:45</a></html>
+Helly: Wait, what?
+
+<html><a id="section000948630" class="timestamp" href="#section000948630">00:09:48</a></html>
+Dylan: The whole time.
+
+<html><a id="section000949840" class="timestamp" href="#section000949840">00:09:49</a></html>
+Milchick: It's called a Glasgow block. It allows one's outie to--
+
+<html><a id="section000955762" class="timestamp" href="#section000955762">00:09:55</a></html>
+Helly: Wait. Are you saying that she was down here? As me?
+
+<html><a id="section000959141" class="timestamp" href="#section000959141">00:09:59</a></html>
+Mark: Maybe she still is.
+
+<html><a id="section001000475" class="timestamp" href="#section001000475">00:10:00</a></html>
+Dylan: Hey, I repeat myself. Where is Irving?
+
+<html><a id="section001003312" class="timestamp" href="#section001003312">00:10:03</a></html>
+Mark: Yeah, where is he?
+
+<html><a id="section001003313" class="timestamp" href="#section001003313">00:10:03</a></html>
+Helly: I'm so confused.
+
+<html><a id="section001005355" class="timestamp" href="#section001005355">00:10:05</a></html>
+Dylan: Answer my question!
+
+<html><a id="section001007191" class="timestamp" href="#section001007191">00:10:07</a></html>
+Milchick: Excuse me. Helena Eagan, in her executive capacity, was conducting valuable research.
+
+<html><a id="section001022748" class="timestamp" href="#section001022748">00:10:22</a></html>
+Helly: By stealing my fucking body?
+
+<html><a id="section001025292" class="timestamp" href="#section001025292">00:10:25</a></html>
+Milchick: Irving had no knowledge of what management's intention was in this action, and in so doing, he nearly drowned you. Our only option was permanent dismissal.
+
+<html><a id="section001044019" class="timestamp" href="#section001044019">00:10:44</a></html>
+Dylan: So he is dead?
+
+<html><a id="section001047523" class="timestamp" href="#section001047523">00:10:47</a></html>
+Milchick: No. Irving B's outie has departed on an elongated cruise voyage.
+
+<html><a id="section001054029" class="timestamp" href="#section001054029">00:10:54</a></html>
+Dylan: I don't give three dry fucks about his outie.
+
+<html><a id="section001057866" class="timestamp" href="#section001057866">00:10:57</a></html>
+Helly: She doesn't have the right to take my identity.
+
+<html><a id="section001110671" class="timestamp" href="#section001110671">00:11:10</a></html>
+Milchick: Have you ever heard the story of the Gråkappan?
+
+<html><a id="section001122724" class="timestamp" href="#section001122724">00:11:22</a></html>
+Mark: Let's assume we haven't.
+
+<html><a id="section001132401" class="timestamp" href="#section001132401">00:11:32</a></html>
+102: In ancient times, the king of Sweden himself was known to go incognito amongst his people in the hopes of learning their true grievances. He would don an old, gray robe, a Gråkappan, the name for which he was remembered, to disguise his royal vestments. Kier Eagan himself was known to do so in his ether factories, and Ms. Eagan was carrying on this noble tradition.
+
+<html><a id="section001210898" class="timestamp" href="#section001210898">00:12:10</a></html>
+Mark: This smells like horseshit.
+
+<html><a id="section001213775" class="timestamp" href="#section001213775">00:12:13</a></html>
+Dylan: Yeah. Swedish horseshit, and Irving is still dead.
+
+<html><a id="section001219239" class="timestamp" href="#section001219239">00:12:19</a></html>
+Milchick: As I said, Irving B's outie has departed on an elonga--
+
+<html><a id="section001223076" class="timestamp" href="#section001223076">00:12:23</a></html>
+Dylan: On an elongated cruise voyage. Yeah, I know. Is he gonna come back or not?
+
+<html><a id="section001241553" class="timestamp" href="#section001241553">00:12:41</a></html>
+Milchick: He is not.
+
+<html><a id="section001246183" class="timestamp" href="#section001246183">00:12:46</a></html>
+Mark: Wow. Some actual honesty.
+
+<html><a id="section001250395" class="timestamp" href="#section001250395">00:12:50</a></html>
+Dylan: You fucking murderers.
+
+<html><a id="section001252356" class="timestamp" href="#section001252356">00:12:52</a></html>
+Helly: You can't do this to people.
+
+<html><a id="section001255901" class="timestamp" href="#section001255901">00:12:55</a></html>
+Milchick: It will take time to absorb all that has occurred. This went well. Allow me to escort you to MDR and help reacclimate you to your work environment.
+
+<html><a id="section001331228" class="timestamp" href="#section001331228">00:13:31</a></html>
+Dylan: What in the abominable fuck?
+
+<html><a id="section001347286" class="timestamp" href="#section001347286">00:13:47</a></html>
+Helly: This is you.
+
+<html><a id="section001348537" class="timestamp" href="#section001348537">00:13:48</a></html>
+Dylan: Hell no. I'm not going near that thing.
+
+<html><a id="section001351540" class="timestamp" href="#section001351540">00:13:51</a></html>
+Milchick: Dylan, please.
+
+<html><a id="section001358547" class="timestamp" href="#section001358547">00:13:58</a></html>
+Dylan: If you're taking feedback, I hate it.
+
+<html><a id="section001400549" class="timestamp" href="#section001400549">00:14:00</a></html>
+Helly: Same.
+
+<html><a id="section001406513" class="timestamp" href="#section001406513">00:14:06</a></html>
+Milchick: Well, the ORTBO was a challenge for us all in ways expected and non.
+
+<html><a id="section001419318" class="timestamp" href="#section001419318">00:14:19</a></html>
+Dylan: You mean like Jame Eagan's daughter Gråkappanning us?
+
+<html><a id="section001424323" class="timestamp" href="#section001424323">00:14:24</a></html>
+Milchick: Careful, Dylan. Words have consequences. I'd hate to rescind certain privileges. As you can see, all of your items have been moved to your new work tri-stations. Hall passes will still be available.
+
+<html><a id="section001440881" class="timestamp" href="#section001440881">00:14:40</a></html>
+Dylan: Let us have a funeral.
+
+<html><a id="section001443550" class="timestamp" href="#section001443550">00:14:43</a></html>
+Milchick: I'm sorry?
+
+<html><a id="section001445761" class="timestamp" href="#section001445761">00:14:45</a></html>
+138: Irving is a person, and he's gone. So, we'd like to have a funeral. Not a retirement party, a funeral. Right?
+
+<html><a id="section001501109" class="timestamp" href="#section001501109">00:15:01</a></html>
+Helly: Yeah.
+
+<html><a id="section001505239" class="timestamp" href="#section001505239">00:15:05</a></html>
+Milchick: A funeral. Is this MDR's position?
+
+<html><a id="section001510452" class="timestamp" href="#section001510452">00:15:10</a></html>
+Dylan: Dude? Little help?
+
+<html><a id="section001516625" class="timestamp" href="#section001516625">00:15:16</a></html>
+Mark: Sure. As long as it's quick.
+
+<html><a id="section001519086" class="timestamp" href="#section001519086">00:15:19</a></html>
+Dylan: Quick?
+
+<html><a id="section001521255" class="timestamp" href="#section001521255">00:15:21</a></html>
+Mark: Quick. Yes. So it doesn't take up the whole day.
+
+<html><a id="section001523632" class="timestamp" href="#section001523632">00:15:23</a></html>
+Milchick: Well said, Mark. I'll see if we can pull something together. In the meantime, let's make some forward progress on the files at hand. Shall we?
+
+<html><a id="section001534476" class="timestamp" href="#section001534476">00:15:34</a></html>
+Dylan: Thank you. Not you.
+
+<html><a id="section001601044" class="timestamp" href="#section001601044">00:16:01</a></html>
+Milchick: Miss Huang, we need to ready a bereavement kit for MDR. Meet me in the back office.
+
+<html><a id="section001618729" class="timestamp" href="#section001618729">00:16:18</a></html>
+Helly: Mark? Hello? I'm gonna come in. I'm coming in.
+
+<html><a id="section001632701" class="timestamp" href="#section001632701">00:16:32</a></html>
+Mark: Hey.
+
+<html><a id="section001636455" class="timestamp" href="#section001636455">00:16:36</a></html>
+Helly: Are you okay?
+
+<html><a id="section001637706" class="timestamp" href="#section001637706">00:16:37</a></html>
+Mark: Uh-huh. No, not really.
+
+<html><a id="section001641835" class="timestamp" href="#section001641835">00:16:41</a></html>
+Helly: Yeah. This is seriously fucked up.
+
+<html><a id="section001644129" class="timestamp" href="#section001644129">00:16:44</a></html>
+Mark: Yeah.
+
+<html><a id="section001651178" class="timestamp" href="#section001651178">00:16:51</a></html>
+Helly: You couldn't tell? That she wasn't me?
+
+<html><a id="section001656225" class="timestamp" href="#section001656225">00:16:56</a></html>
+Mark: Obviously not.
+
+<html><a id="section001659436" class="timestamp" href="#section001659436">00:16:59</a></html>
+Helly: What was she like?
+
+<html><a id="section001706151" class="timestamp" href="#section001706151">00:17:06</a></html>
+Mark: Like you. Or you're like her? I don't know. I don't know who you are, I guess.
+
+<html><a id="section001717913" class="timestamp" href="#section001717913">00:17:17</a></html>
+Helly: Yes, you do.
+
+<html><a id="section001720374" class="timestamp" href="#section001720374">00:17:20</a></html>
+Mark: Okay.
+
+<html><a id="section001724877" class="timestamp" href="#section001724877">00:17:24</a></html>
+Helly: It's not my fault that my outie hijacked me.
+
+<html><a id="section001727130" class="timestamp" href="#section001727130">00:17:27</a></html>
+Mark: Yeah. No, totally. I get it. It sucks.
+
+<html><a id="section001734012" class="timestamp" href="#section001734012">00:17:34</a></html>
+Helly: Mark...
+
+<html><a id="section001734013" class="timestamp" href="#section001734013">00:17:34</a></html>
+Mark: Yeah.
+
+<html><a id="section001735722" class="timestamp" href="#section001735722">00:17:35</a></html>
+Helly: What happened to you up there?
+
+<html><a id="section001740018" class="timestamp" href="#section001740018">00:17:40</a></html>
+Mark: Doesn't matter.
+
+<html><a id="section001741019" class="timestamp" href="#section001741019">00:17:41</a></html>
+Helly: It doesn't matter?
+
+<html><a id="section001741019" class="timestamp" href="#section001741019">00:17:41</a></html>
+Mark: No.
+
+<html><a id="section001742563" class="timestamp" href="#section001742563">00:17:42</a></html>
+Helly: Don't you want to hear what happened to me?
+
+<html><a id="section001744147" class="timestamp" href="#section001744147">00:17:44</a></html>
+Mark: No, I don't. And let's just try to forget it. Okay?
+
+<html><a id="section001813677" class="timestamp" href="#section001813677">00:18:13</a></html>
+Ms. Huang: I thought bereavement events were for innies who die on the floor.
+
+<html><a id="section001819057" class="timestamp" href="#section001819057">00:18:19</a></html>
+Milchick: Yes. Well, the Affections Index for Irving B. was in the high 60s. It will help the others to grieve.
+
+<html><a id="section001833071" class="timestamp" href="#section001833071">00:18:33</a></html>
+Ms. Huang: May I say a question?
+
+<html><a id="section001835657" class="timestamp" href="#section001835657">00:18:35</a></html>
+Milchick: You may.
+
+<html><a id="section001839912" class="timestamp" href="#section001839912">00:18:39</a></html>
+Ms. Huang: You shouldn't let them have a funeral. It makes them feel like people.
+
+<html><a id="section001848253" class="timestamp" href="#section001848253">00:18:48</a></html>
+Milchick: That wasn't a question. That was an opinion. Unsolicited.
+
+<html><a id="section001906355" class="timestamp" href="#section001906355">00:19:06</a></html>
+Ms. Huang: Your first performance review is today, right? That was a question.
+
+<html><a id="section001925290" class="timestamp" href="#section001925290">00:19:25</a></html>
+Milchick: I'll ready the refreshments. You focus on the mournful signage.
+
+<html><a id="section001941098" class="timestamp" href="#section001941098">00:19:41</a></html>
+Milchick: Today we honor Irving B. Normally, when an innie goes to be with Kier, we hold a retirement party, which they attend. But given the sudden and frigid events which brought us here, that's not feasible. As such, let us each take nine seconds to silently remember Irving and thank Kier for our time with him. There. You may now lift your heads and open your eyes. We will now have a eulogy from Dylan G.
+
+<html><a id="section002036236" class="timestamp" href="#section002036236">00:20:36</a></html>
+Dylan: It's hard to pinpoint a favorite Irving story. For the least fun guy in the world, he was really fun. He put the "dick" in contradiction. One time, he was pissed at me for watering down the toner, so he put toner in my water cup. He stopped me before I drank it, though. He just wanted to make a point, not harm me physically. But I did accidentally take a sip of it later 'cause I forgot he said that. He asked me for help with something near the end, and I didn't listen. And in his final moments, he would have been totally justified in telling me to suck my own fuck. But he didn't. Yeah. He was awesome, and I miss him.
+
+<html><a id="section002142594" class="timestamp" href="#section002142594">00:21:42</a></html>
+Milchick: Thank you, Dylan G. A little sugar with your usual salt. Thank you for your attendance and your participation. You may now briefly partake in Irving's fruit head, whose dark hair is courtesy of the Black Beauty Watermelon. From the country of Malaysia.
+
+<html><a id="section002212457" class="timestamp" href="#section002212457">00:22:12</a></html>
+Milchick: Miss Huang.
+
+<html><a id="section002228182" class="timestamp" href="#section002228182">00:22:28</a></html>
+Ms. Huang: I thought I was going to perform.
+
+<html><a id="section002229808" class="timestamp" href="#section002229808">00:22:29</a></html>
+Milchick: Yes, well, I feel the theremin works best in moderation.
+
+<html><a id="section002233687" class="timestamp" href="#section002233687">00:22:33</a></html>
+Ms. Huang: But I practiced--
+
+<html><a id="section002233688" class="timestamp" href="#section002233688">00:22:33</a></html>
+Milchick: You can play your piece for me later. Yes?
+
+<html><a id="section002302674" class="timestamp" href="#section002302674">00:23:02</a></html>
+Helly: You okay?
+
+<html><a id="section002306261" class="timestamp" href="#section002306261">00:23:06</a></html>
+Dylan: How about you?
+
+<html><a id="section002308222" class="timestamp" href="#section002308222">00:23:08</a></html>
+Helly: Okay. You're not staying?
+
+<html><a id="section002315395" class="timestamp" href="#section002315395">00:23:15</a></html>
+Mark: I gotta get to work, but great ceremony, guys.
+
+<html><a id="section002318732" class="timestamp" href="#section002318732">00:23:18</a></html>
+Helly: Seriously?
+
+<html><a id="section002322402" class="timestamp" href="#section002322402">00:23:22</a></html>
+Mark: I mean, isn't it kind of over?
+
+<html><a id="section002325405" class="timestamp" href="#section002325405">00:23:25</a></html>
+Helly: Mark...
+
+<html><a id="section002326406" class="timestamp" href="#section002326406">00:23:26</a></html>
+Dylan: Just let him go.
+
+<html><a id="section002329034" class="timestamp" href="#section002329034">00:23:29</a></html>
+Mark: What?
+
+<html><a id="section002332412" class="timestamp" href="#section002332412">00:23:32</a></html>
+Helly: Irving was your friend, and he's dead. Why don't you give a shit?
+
+<html><a id="section002335165" class="timestamp" href="#section002335165">00:23:35</a></html>
+Mark: Because he's not dead. He's just not here.
+
+<html><a id="section002339127" class="timestamp" href="#section002339127">00:23:39</a></html>
+Dylan: You two catch up?
+
+<html><a id="section002341505" class="timestamp" href="#section002341505">00:23:41</a></html>
+Mark: What's that?
+
+<html><a id="section002345342" class="timestamp" href="#section002345342">00:23:45</a></html>
+Dylan: You tell her Ms. Casey's your wife yet?
+
+<html><a id="section002350806" class="timestamp" href="#section002350806">00:23:50</a></html>
+Helly: Wait, what?
+
+<html><a id="section002353559" class="timestamp" href="#section002353559">00:23:53</a></html>
+Mark: Yeah, I mean, it's my outie's wife, but sure... No, it's pretty crazy.
+
+<html><a id="section002400566" class="timestamp" href="#section002400566">00:24:00</a></html>
+Helly: Mark.
+
+<html><a id="section002405487" class="timestamp" href="#section002405487">00:24:05</a></html>
+Helly: Mark, what the hell? Why won't you talk to me?
+
+<html><a id="section002409575" class="timestamp" href="#section002409575">00:24:09</a></html>
+Mark: What do you want to talk about, Helly?
+
+<html><a id="section002411869" class="timestamp" href="#section002411869">00:24:11</a></html>
+Helly: I don't know. Maybe the fact that Ms. Casey's your outie's wife? What are we gonna do?
+
+<html><a id="section002417291" class="timestamp" href="#section002417291">00:24:17</a></html>
+Mark: Well, we're not gonna do anything.
+
+<html><a id="section002419084" class="timestamp" href="#section002419084">00:24:19</a></html>
+Helly: Not gonna do anything?
+
+<html><a id="section002420169" class="timestamp" href="#section002420169">00:24:20</a></html>
+Helly: Seriously?
+
+<html><a id="section002420170" class="timestamp" href="#section002420170">00:24:20</a></html>
+Mark: Yes. Seriously.
+
+<html><a id="section002423213" class="timestamp" href="#section002423213">00:24:23</a></html>
+Helly: Come on. We'll work as a team. We'll figure this out.
+
+<html><a id="section002426133" class="timestamp" href="#section002426133">00:24:26</a></html>
+Mark: "We'll"? There's no "we," Helly.
+
+<html><a id="section002426134" class="timestamp" href="#section002426134">00:24:26</a></html>
+Helly: What?
+
+<html><a id="section002429219" class="timestamp" href="#section002429219">00:24:29</a></html>
+Mark: It doesn't matter.
+
+<html><a id="section002429220" class="timestamp" href="#section002429220">00:24:29</a></html>
+Helly: Why?
+
+<html><a id="section002431722" class="timestamp" href="#section002431722">00:24:31</a></html>
+Mark: Why?
+
+<html><a id="section002431723" class="timestamp" href="#section002431723">00:24:31</a></html>
+Helly: Yeah. Why?
+
+<html><a id="section002432848" class="timestamp" href="#section002432848">00:24:32</a></html>
+Mark: Because they are smarter than us, okay? They know everything. Me looking for Ms. Casey, us wandering around, meeting other departments, mapping the floor, all of it. They know everything we're doing because Helena told them everything we're doing.
+
+<html><a id="section002450574" class="timestamp" href="#section002450574">00:24:50</a></html>
+Helly: That wasn't me. Mark, lo... I'm not her. I'm not. I'm me. Helly.
+
+<html><a id="section002503045" class="timestamp" href="#section002503045">00:25:03</a></html>
+Mark: And how do I know that?
+
+<html><a id="section002510677" class="timestamp" href="#section002510677">00:25:10</a></html>
+Helly: You don't. You just have to trust me. This is real. Not everything here is a lie. And stop being a fucking asshole.
+
+<html><a id="section002546839" class="timestamp" href="#section002546839">00:25:46</a></html>
+Natalie: Your first performance review as Department Chief. Excited?
+
+<html><a id="section002553887" class="timestamp" href="#section002553887">00:25:53</a></html>
+Milchick: Very much so.
+
+<html><a id="section002556306" class="timestamp" href="#section002556306">00:25:56</a></html>
+Natalie: Shall we?
+
+<html><a id="section002557599" class="timestamp" href="#section002557599">00:25:57</a></html>
+Milchick: Natalie, just before we begin, I was wondering if I could have a word with you. The paintings. I want you to understand I am grateful for them. Truly. If they're a measure of appreciation, then I accept that appreciation. I was just wondering if you could share with me a little how you felt when you received the paintings. Because I'm thinking our experiences here have been similar in some ways, we face similar challenges, and perhaps the paintings and the somewhat complicated feelings they evoke.
+
+<html><a id="section002657534" class="timestamp" href="#section002657534">00:26:57</a></html>
+Natalie: Mr. Drummond's waiting.
+
+<html><a id="section002700454" class="timestamp" href="#section002700454">00:27:00</a></html>
+Milchick: Yes, of course. Let us go.
+
+<html><a id="section002721642" class="timestamp" href="#section002721642">00:27:21</a></html>
+Dylan: Okay, asshole. Guess this is it. Sorry I let you down.
+
+<html><a id="section002834339" class="timestamp" href="#section002834339">00:28:34</a></html>
+Drummond: Welcome, Mr. Milchick. Today, I will be conducting your monthly performance review. This review can take anywhere from two to six hours, depending on the number of atonements and approbations required. If the review is to take longer than four hours, there will be a break for lunch, with the order taken in advance.
+
+<html><a id="section002854568" class="timestamp" href="#section002854568">00:28:54</a></html>
+Milchick: Well, I hope that won't be necessary.
+
+<html><a id="section002859281" class="timestamp" href="#section002859281">00:28:59</a></html>
+Drummond: Here is the lunch menu. Let's start with the positives. You received the gift of Kier paintings with grace. Your attendance and urinalysis are both in the excellent range.
+
+<html><a id="section002919885" class="timestamp" href="#section002919885">00:29:19</a></html>
+Milchick: Wonderful.
+
+<html><a id="section002921386" class="timestamp" href="#section002921386">00:29:21</a></html>
+Drummond: Alternatively and sadly, there have been three contentions reported anonymously which have been investigated and confirmed. "One: uses too many big words."
+
+<html><a id="section002938862" class="timestamp" href="#section002938862">00:29:38</a></html>
+Milchick: Well, perchance I may colloquially employ a--
+
+<html><a id="section002941323" class="timestamp" href="#section002941323">00:29:41</a></html>
+Drummond: Anti-deflections will be heard after the lunch break.
+
+<html><a id="section002945494" class="timestamp" href="#section002945494">00:29:45</a></html>
+Milchick: Yes, sorry.
+
+<html><a id="section002946495" class="timestamp" href="#section002946495">00:29:46</a></html>
+Drummond: Two: on several of your daily logs, the paper clip was installed back to front, which led to a confusion as to where in the document to begin reading. Here are the incidents. But the bulk of our day will revolve around the following. You brought in a new refining team for Mark S. which failed to coalesce. You instituted kindness reforms.
+
+<html><a id="section003016525" class="timestamp" href="#section003016525">00:30:16</a></html>
+Milchick: Because I'm not Harmony Cobel.
+
+<html><a id="section003018527" class="timestamp" href="#section003018527">00:30:18</a></html>
+Drummond: Kindness reforms that seemed to have, in no way, deterred curiosity or idling by the team once they returned. You arranged an outdoor retreat and team-building occurrence which resulted in the termination of one employee, and the discovery of the true identity of another at great risk and harm to the Eagan name. Look, Seth, Mark Scout's completion of Cold Harbor... will be remembered as one of the greatest moments in the history of this planet. It will take place under your stewardship. That's quite a legacy you will leave.
+
+<html><a id="section003117461" class="timestamp" href="#section003117461">00:31:17</a></html>
+Milchick: Thank you, Mr. Drummond. That means a great deal.
+
+<html><a id="section003124218" class="timestamp" href="#section003124218">00:31:24</a></html>
+Drummond: This milestone seems to have clouded your judgment. I think it's time to go back to the basics, Seth. To remember these severed workers' greater purpose... and to treat them as what they really are.
+
+<html><a id="section003230909" class="timestamp" href="#section003230909">00:32:30</a></html>
+Milchick: I'm tightening the leash.
+
+<html><a id="section003253265" class="timestamp" href="#section003253265">00:32:53</a></html>
+Milchick: Hi, Mark.
+
+<html><a id="section003254808" class="timestamp" href="#section003254808">00:32:54</a></html>
+Mark: Mr. Milchick.
+
+<html><a id="section003256226" class="timestamp" href="#section003256226">00:32:56</a></html>
+Milchick: I see you left work six minutes early. May I come in? How was the rest of the funeral? Did you get what you needed from it?
+
+<html><a id="section003314369" class="timestamp" href="#section003314369">00:33:14</a></html>
+Mark: Yeah, sure. Hey, did Miss Huang take notes? I can't wait to read her article about it in that newspaper you showed me. What was it called again? The Bullshit Gazette?
+
+<html><a id="section003333847" class="timestamp" href="#section003333847">00:33:33</a></html>
+Milchick: Hopefully, now we can put all this grief and tumult behind us and look forward to some productive workdays ahead.
+
+<html><a id="section003340729" class="timestamp" href="#section003340729">00:33:40</a></html>
+Mark: You mean putting the numbers in the thing--
+
+<html><a id="section003344066" class="timestamp" href="#section003344066">00:33:44</a></html>
+Milchick: Refining.
+
+<html><a id="section003344067" class="timestamp" href="#section003344067">00:33:44</a></html>
+Mark: Right.
+
+<html><a id="section003345484" class="timestamp" href="#section003345484">00:33:45</a></html>
+Milchick: Yes. Does that sound good?
+
+<html><a id="section003347778" class="timestamp" href="#section003347778">00:33:47</a></html>
+Mark: Whatever you say, Mr. Milchick. Praise Kier.
+
+<html><a id="section003400916" class="timestamp" href="#section003400916">00:34:00</a></html>
+Milchick: Did you and Helly R. catch up?
+
+<html><a id="section003404169" class="timestamp" href="#section003404169">00:34:04</a></html>
+Mark: We did.
+
+<html><a id="section003405087" class="timestamp" href="#section003405087">00:34:05</a></html>
+Milchick: Did you tell her that you fucked her outie at the ORTBO? Helena Eagan, leader-in-waiting of this company. Have a restful evening.
+
+<html><a id="section003451842" class="timestamp" href="#section003451842">00:34:51</a></html>
+Devon: "The workers were diligent, focused on the task at hand. Pleasantly surprised, I noticed that not a single worker had a watch. They simply referenced a large standard clock near the door, just hands and numbers and cogs and purpose. Your sovereign boss may own the clock that greets you from the wall, but you get to enjoy its ticking and thus should be happy."
+
+<html><a id="section003520204" class="timestamp" href="#section003520204">00:35:20</a></html>
+Ricken: Yes.
+
+<html><a id="section003521205" class="timestamp" href="#section003521205">00:35:21</a></html>
+Devon: Babe, it's the literal opposite of what you were saying before.
+
+<html><a id="section003526168" class="timestamp" href="#section003526168">00:35:26</a></html>
+Ricken: Okay. I see how you'd feel that way. But one point that Nat made was--
+
+<html><a id="section003533258" class="timestamp" href="#section003533258">00:35:33</a></html>
+Devon: Nat, okay.
+
+<html><a id="section003536053" class="timestamp" href="#section003536053">00:35:36</a></html>
+Ricken: She said that innies tend to thrive in an environment of structure, and once that is established, then they are more open to self-expansion. So I am just trying to speak their language.
+
+<html><a id="section003547731" class="timestamp" href="#section003547731">00:35:47</a></html>
+Devon: I know, but this sounds like Lumon's language.
+
+<html><a id="section003550150" class="timestamp" href="#section003550150">00:35:50</a></html>
+Ricken: Well, it's a Trojan's horse. If I can get my ideas to severed workers all across the world, it might beget a revolution.
+
+<html><a id="section003559618" class="timestamp" href="#section003559618">00:35:59</a></html>
+Devon: But these aren't your ideas. These are not your ideas, and also... Whatever.
+
+<html><a id="section003606291" class="timestamp" href="#section003606291">00:36:06</a></html>
+Ricken: And what?
+
+<html><a id="section003607292" class="timestamp" href="#section003607292">00:36:07</a></html>
+Devon: Okay, Lumon hurts people, you know that, and if you want to water down your work so they can use it for their fucking propaganda, then you're hurting people too.
+
+<html><a id="section003614174" class="timestamp" href="#section003614174">00:36:14</a></html>
+Ricken: Okay. I will reflect on your words.
+
+<html><a id="section003617719" class="timestamp" href="#section003617719">00:36:17</a></html>
+Devon: Thank you.
+
+<html><a id="section003620931" class="timestamp" href="#section003620931">00:36:20</a></html>
+Ricken: And also, this is a fiscal and creative opportunity unlike any I have yet seen. And I'm not inclined to just walk away from it. Unless me selling millions of copies of my book and the life that that manages to give us has somehow lost its appeal for you.
+
+<html><a id="section003647583" class="timestamp" href="#section003647583">00:36:47</a></html>
+Devon: Okay. Whatever. I'm gonna go to bed.
+
+<html><a id="section003650085" class="timestamp" href="#section003650085">00:36:50</a></html>
+Ricken: No. Babe.
+
+<html><a id="section003652462" class="timestamp" href="#section003652462">00:36:52</a></html>
+Devon: No, thank you.
+
+<html><a id="section003752981" class="timestamp" href="#section003752981">00:37:52</a></html>
+Irving: It's me again. So, they fired me. I think they knew what my innie was up to. I'm telling you to-- I have to go.
+
+<html><a id="section003814127" class="timestamp" href="#section003814127">00:38:14</a></html>
+Irving: Hey! Hey! You. Why are you following me?
+
+<html><a id="section003826431" class="timestamp" href="#section003826431">00:38:26</a></html>
+Burt: I got this thing. When somebody shows up on my doorstep screaming my name, I wanna know why. Call it a quirk.
+
+<html><a id="section003837401" class="timestamp" href="#section003837401">00:38:37</a></html>
+Irving: You're with Lumon.
+
+<html><a id="section003843740" class="timestamp" href="#section003843740">00:38:43</a></html>
+Burt: Why were you at my house the other night?
+
+<html><a id="section003849329" class="timestamp" href="#section003849329">00:38:49</a></html>
+Irving: I don't know.
+
+<html><a id="section003851582" class="timestamp" href="#section003851582">00:38:51</a></html>
+Burt: It wasn't you at all, was it? You're severed. I got canned a couple of weeks ago. When I pressed them for a reason, they said my innie had an unsanctioned, erotic entanglement with another worker. They wouldn't tell me who. Then you show up at my door.
+
+<html><a id="section003922654" class="timestamp" href="#section003922654">00:39:22</a></html>
+Irving: You think we were an item?
+
+<html><a id="section003924948" class="timestamp" href="#section003924948">00:39:24</a></html>
+Burt: Well, Fields certainly thinks so. We had to cancel our trip to Milwaukee. Thanks for that.
+
+<html><a id="section003931246" class="timestamp" href="#section003931246">00:39:31</a></html>
+Irving: Fields?
+
+<html><a id="section003931247" class="timestamp" href="#section003931247">00:39:31</a></html>
+Burt: That's my husband, Fields.
+
+<html><a id="section003935417" class="timestamp" href="#section003935417">00:39:35</a></html>
+Irving: I'm sorry.
+
+<html><a id="section003937377" class="timestamp" href="#section003937377">00:39:37</a></html>
+Burt: Yeah, well...
+
+<html><a id="section003938879" class="timestamp" href="#section003938879">00:39:38</a></html>
+Irving: And I'm sorry I came at you just now.
+
+<html><a id="section003944134" class="timestamp" href="#section003944134">00:39:44</a></html>
+Burt: It's fine. Maybe you could-- I don't know.
+
+<html><a id="section003954686" class="timestamp" href="#section003954686">00:39:54</a></html>
+Irving: What?
+
+<html><a id="section003957231" class="timestamp" href="#section003957231">00:39:57</a></html>
+Burt: We got a ham. We're planning to have it tomorrow. Might be nice if you come over. We could sit down, talk through it all.
+
+<html><a id="section004008784" class="timestamp" href="#section004008784">00:40:08</a></html>
+Irving: You, me, and...
+
+<html><a id="section004011119" class="timestamp" href="#section004011119">00:40:11</a></html>
+Burt: Fields.
+
+<html><a id="section004017793" class="timestamp" href="#section004017793">00:40:17</a></html>
+Irving: I suppose.
+
+<html><a id="section004019086" class="timestamp" href="#section004019086">00:40:19</a></html>
+Burt: Great. We like red wine. Expensive.
+
+<html><a id="section004024716" class="timestamp" href="#section004024716">00:40:24</a></html>
+Irving: Okay. Tomorrow.
+
+<html><a id="section004028929" class="timestamp" href="#section004028929">00:40:28</a></html>
+Burt: You need a lift?
+
+<html><a id="section004030806" class="timestamp" href="#section004030806">00:40:30</a></html>
+Irving: I'll walk. Thanks.
+
+<html><a id="section004032266" class="timestamp" href="#section004032266">00:40:32</a></html>
+Burt: You sure? I know where you live. See you tomorrow.
+
+<html><a id="section004041567" class="timestamp" href="#section004041567">00:40:41</a></html>
+Irving: Yes.
+
+<html><a id="section004119479" class="timestamp" href="#section004119479">00:41:19</a></html>
+Mark: Sorry there wasn't any eggnog. Might be out of season. What the fuck are you doing?
+
+<html><a id="section004127070" class="timestamp" href="#section004127070">00:41:27</a></html>
+Regabhi: I needed some pressure points. Things to rattle your memories. Knitting?
+
+<html><a id="section004131909" class="timestamp" href="#section004131909">00:41:31</a></html>
+Mark: Yeah. She said it gave her time to think.
+
+<html><a id="section004139374" class="timestamp" href="#section004139374">00:41:39</a></html>
+Regabhi: That her?
+
+<html><a id="section004142461" class="timestamp" href="#section004142461">00:41:42</a></html>
+Mark: What I thought was her. She's not dead. She's just not here. Who's in there?
+
+<html><a id="section004200437" class="timestamp" href="#section004200437">00:42:00</a></html>
+Regabhi: They know people at the morgue. On the payroll, like everywhere else in Kier. You feel all right?
+
+<html><a id="section004213075" class="timestamp" href="#section004213075">00:42:13</a></html>
+Mark: Basically. So, are we gonna...
+
+<html><a id="section004216787" class="timestamp" href="#section004216787">00:42:16</a></html>
+Regabhi: One more day. Usually that's best.
+
+<html><a id="section004222084" class="timestamp" href="#section004222084">00:42:22</a></html>
+Mark: Usually? You've done this once.
+
+<html><a id="section004224378" class="timestamp" href="#section004224378">00:42:24</a></html>
+Regabhi: I don't wanna rush things. There's risk. It's not an exact science, Mark.
+
+<html><a id="section004228841" class="timestamp" href="#section004228841">00:42:28</a></html>
+Mark: I'm not sure it's science, period, but okay. You good on snacks?
+
+<html><a id="section004237474" class="timestamp" href="#section004237474">00:42:37</a></html>
+Regabhi: For now.
+
+<html><a id="section004258412" class="timestamp" href="#section004258412">00:42:58</a></html>
+Mark: Are they hurting her?
+
+<html><a id="section004304126" class="timestamp" href="#section004304126">00:43:04</a></html>
+Regabhi: I don't know.
+
+<html><a id="section004315345" class="timestamp" href="#section004315345">00:43:15</a></html>
+Ms. Casey: Your outie.
+
+<html><a id="section004316346" class="timestamp" href="#section004316346">00:43:16</a></html>
+Mark: What?
+
+<html><a id="section004318849" class="timestamp" href="#section004318849">00:43:18</a></html>
+Regabhi: I didn't say anything.
+
+<html><a id="section004329109" class="timestamp" href="#section004329109">00:43:29</a></html>
+Ms. Casey: Your outie can parallel park in less than 20 seconds.
+
+<html><a id="section004345375" class="timestamp" href="#section004345375">00:43:45</a></html>
+Ms. Casey: Your outie can roller-skate with grace.
+
+<html><a id="section004354426" class="timestamp" href="#section004354426">00:43:54</a></html>
+Ms. Casey: Your outie pays all of his gas and electric bills within three business days.
+
+<html><a id="section004420869" class="timestamp" href="#section004420869">00:44:20</a></html>
+Ms. Casey: Your outie listens to music while shaving, but not while showering.
+
+<html><a id="section004435676" class="timestamp" href="#section004435676">00:44:35</a></html>
+Ms. Casey: Your outie prefers two scoops of ice cream in a serving, but they must be the same flavor.
+
+<html><a id="section004450232" class="timestamp" href="#section004450232">00:44:50</a></html>
+Ms. Casey: Your outie once captured a butterfly.
+
+<html><a id="section004503662" class="timestamp" href="#section004503662">00:45:03</a></html>
+Ms. Casey: Your outie is going to--
+
+</WRAP>
+
+{{tag>Transcripts}}
