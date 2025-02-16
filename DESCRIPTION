@@ -5,7 +5,7 @@ Version: 0.1.0
 Description: The work is mysterious and important.
 Authors@R: c(
     person("Lucy", "D'Agostino McGowan", , "lucydagostino@gmail.com", role = c("aut", "cre")),
-    person("Leopold", "Tol", role = "ctb")
+    person(c("Leopold", "Tal"), "de Gaillande", , "leopold.tal.dg@gmail.com", role = "ctb")
   )
 License: MIT + file LICENSE
 Encoding: UTF-8
