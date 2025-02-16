@@ -2,8 +2,6 @@ Package: mdr
 Type: Package
 Title: Macro Data Refinement 
 Version: 0.1.0
-Author: Lucy D'Agostino McGowan
-Maintainer: Lucy D'Agostino McGowan <lucydagostino@gmail.com>
 Description: The work is mysterious and important.
 License: MIT + file LICENSE
 Encoding: UTF-8
@@ -14,3 +12,7 @@ RoxygenNote: 7.3.0
 Imports: 
     ggplot2
 URL: https://lucymcgowan.github.io/mdr/
+Authors@R: c(
+    person("Lucy", "D'Agostino McGowan", , "lucydagostino@gmail.com", role = c("aut", "cre")),
+    person("Leopald", "Tol", role = "ctb")
+  )
