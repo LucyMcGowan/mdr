@@ -24,6 +24,8 @@ theme_mdr <- function() {
       axis.title = ggplot2::element_text(color = "#CFE0E1", size = 12),
       axis.text = ggplot2::element_text(color = "#CFE0E1", size = 10),
       axis.line = ggplot2::element_line(color = "#CFE0E1"),
+      # facets
+      strip.text = ggplot2::element_text(color = "#CFE0E1", size = 12),
       # legend
       legend.title = ggplot2::element_text(color = "#CFE0E1"),
       legend.text = ggplot2::element_text(color = "#CFE0E1"),
