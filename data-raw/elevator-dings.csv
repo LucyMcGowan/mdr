@@ -27,10 +27,10 @@ season,episode,time,character,pitch,io,action,note
 1,5,02:16,iMark,Bb,innie,enters,"Graner scans Mark into the elevator, doors begin to close"
 1,5,02:24,iMark,G,innie,sleeps,goes to sleep in the elevator
 1,5,02:29,oMark,C#,outie,wakes up,wakes up in the elevator
-1,5,02:26,oMark,Bb,outie,enters,Elevator doors close behind oMark
+1,5,02:36,oMark,Bb,outie,enters,Elevator doors close behind oMark
 1,5,04:28,oMark,G,outie,sleeps,goes to sleep in the elevator
 1,5,04:29,iMark,C#,innie,wakes up,wakes up in the elevator
-1,5,08:32,oMark,Bb,outie,enters,"Elevator up button turns on; cut to oMark leaving"
+1,5,04:32,oMark,Bb,outie,enters,"Elevator up button turns on; cut to oMark leaving"
 1,5,19:32,iMark,Bb,innie,enters,"Elevator doors open to Mark, Helly inside"
 1,6,27:41,iDylan,C#,innie,wakes up,wakes up at home
 1,6,28:26,oDylan,C#,outie,wakes up,wakes back up
