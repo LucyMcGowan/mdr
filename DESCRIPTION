@@ -12,7 +12,7 @@ Encoding: UTF-8
 LazyData: true
 Depends: 
     R (>= 3.5)
-RoxygenNote: 7.3.0
+RoxygenNote: 7.3.2
 Imports: 
     ggplot2
 URL: https://lucymcgowan.github.io/mdr/
