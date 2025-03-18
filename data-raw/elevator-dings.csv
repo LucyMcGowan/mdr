@@ -1,92 +1,92 @@
-season,episode,time,character,pitch,io,action,note
-1,1,08:48,oMark,Bb,outie,enters,"enters elevator: ID beeps, down arrow turns on"
-1,1,09:07,oMark,G,outie,sleeps,goes to sleep in the elevator
-1,1,09:12,iMark,C#,innie,wakes up,wakes up in the elevator
-1,1,33:27,iMark,Bb,innie,enters,"enters elevator: ID beeps, up arrow turns on"
-1,1,33:39,iMark,G,innie,sleeps,goes to sleep in the elevator
-1,1,33:43,oMark,C#,outie,wakes up,wakes up in the elevator
-1,2,05:14,Helena,C#,outie,wakes up,wakes up in the elevator
-1,2,20:55,Helly,,innie,enters,"scans into the elevator, no ding at all"
-1,3,50:19,iMark,Bb,innie,enters,"enters elevator: ID beeps, up arrow turns on"
-1,3,50:27,iMark,G,innie,sleeps,goes to sleep in the elevator
-1,3,50:37,oMark,C#,outie,wakes up,wakes up in the elevator
-1,4,01:56,Helly,Bb,innie,enters,Milchick signs Helly into the elevator. The elevator doors make the high frequency as they open
-1,4,02:11,Helly,G,innie,sleeps,goes to sleep in the elevator
-1,4,02:12,Helly,C#,innie,wakes up,wakes up in the elevator
-1,4,21:07,Helly,Bb,innie,enters,signs into the elevator
-1,4,21:09,,Bb,,,The elevator seems to BEGIN descending. Doors do not open. Sound of movement is apparent
-1,4,21:24,,Bb,,,The elevator arrives and the doors open
-1,4,21:41,Helly,G,innie,sleeps,goes to sleep in the elevator
+season,episode,time,character,pitch,io,action,note,location
+1,1,08:48,oMark,Bb,outie,enters,"enters elevator: ID beeps, down arrow turns on",upstairs
+1,1,09:07,oMark,G,outie,sleeps,goes to sleep in the elevator,
+1,1,09:12,iMark,C#,innie,wakes up,wakes up in the elevator,
+1,1,33:27,iMark,Bb,innie,enters,"enters elevator: ID beeps, up arrow turns on",severed floor
+1,1,33:39,iMark,G,innie,sleeps,goes to sleep in the elevator,
+1,1,33:43,oMark,C#,outie,wakes up,wakes up in the elevator,
+1,2,05:14,Helena,C#,outie,wakes up,wakes up in the elevator,
+1,2,20:55,Helly,,innie,enters,"scans into the elevator, no ding at all",
+1,3,50:19,iMark,Bb,innie,enters,"enters elevator: ID beeps, up arrow turns on",severed floor
+1,3,50:27,iMark,G,innie,sleeps,goes to sleep in the elevator,
+1,3,50:37,oMark,C#,outie,wakes up,wakes up in the elevator,
+1,4,01:56,Helly,Bb,innie,enters,Milchick signs Helly into the elevator. The elevator doors make the high frequency as they open,severed floor
+1,4,02:11,Helly,G,innie,sleeps,goes to sleep in the elevator,
+1,4,02:12,Helly,C#,innie,wakes up,wakes up in the elevator,
+1,4,21:07,Helly,Bb,innie,enters,signs into the elevator,severed floor
+1,4,21:09,,Bb,,,The elevator seems to BEGIN descending. Doors do not open. Sound of movement is apparent,upstairs
+1,4,21:24,,Bb,,,The elevator arrives and the doors open,severed floor
+1,4,21:41,Helly,G,innie,sleeps,goes to sleep in the elevator,
 1,4,21:43,Helly,C#,innie,wakes up,wakes up in the elevator
-1,4,44:13,Helly,Bb,innie,enters,scans into the elevator
+1,4,44:13,Helly,Bb,innie,enters,scans into the elevator,severed floor
 1,5,00:12,Helly,G,innie,sleeps,goes to sleep in the elevator
 1,5,00:16,Helena,C#,outie,wakes up,wakes up in the elevator
-1,5,00:35,Helena,B natural,outie,enters,"Elevator doors open, Helena inside"
-1,5,00:43,Helena,B natural,outie,enters,"Elevator doors close again, Helena still inside"
-1,5,01:26,iMark,B natural,,,Elevator doors open to Mark
-1,5,02:16,iMark,Bb,innie,enters,"Graner scans Mark into the elevator, doors begin to close"
-1,5,02:24,iMark,G,innie,sleeps,goes to sleep in the elevator
-1,5,02:29,oMark,C#,outie,wakes up,wakes up in the elevator
-1,5,02:36,oMark,Bb,outie,exits,Elevator doors close behind oMark
-1,5,04:28,oMark,G,outie,sleeps,goes to sleep in the elevator
-1,5,04:29,iMark,C#,innie,wakes up,wakes up in the elevator
-1,5,08:32,oMark,Bb,outie,enters,"Elevator up button turns on; cut to oMark leaving"
-1,5,19:32,iMark,Bb,innie,enters,"Elevator doors open to Mark, Helly inside"
-1,6,27:41,iDylan,C#,innie,wakes up,wakes up at home
-1,6,28:26,oDylan,C#,outie,wakes up,wakes back up
-1,8,04:45,oMark,G,outie,sleeps,"MDR's outie forms go to sleep in the elevator, four G pitches"
-1,8,04:46,oDylan,G,outie,sleeps,"MDR's outie forms go to sleep in the elevator, four G pitches"
-1,8,04:47,oIrving,G,outie,sleeps,"MDR's outie forms go to sleep in the elevator, four G pitches"
-1,8,04:48,Helena,G,outie,sleeps,"MDR's outie forms go to sleep in the elevator, four G pitches"
-1,8,04:49,MDR,C#,innie,wakes up,"The innies wake up in the elevator"
-1,8,17:43,Gemma,Bb,,testing,is sent down to the testing floor
-1,8,29:17,iIrving,Bb,innie,enters,Elevator opens for Irving. Does not ding for Helly soon after.
-1,8,30:15,Helly,Bb,innie,enters,Doors close for Helly. Did not ding for Irving soon before.
-1,8,30:41,Helly,Bb,innie,enters,Doors close again for Helly
-1,8,31:05,iMark,Bb,innie,enters,Doors open for Mark
-1,9,00:13,oMDR,G,outie,sleeps,go to sleep on the outside
-1,9,00:16,iMDR,C#,innie,wakes up,wake up on the outside
-1,9,38:40,,C#,,,"Last sound of Episode 9"
-2,1,00:30,iMark,C#,innie,wakes up,wakes up in long hallway
-2,1,13:07,iMark,Bb,innie,enters,Doors open for Mark
-2,1,13:12,iMark,G,innie,sleeps,goes to sleep in elevator
-2,1,13:15,iMark,C#,outie,wakes up, wakes up in elevator
-2,1,13:21,iMark,G,innie,wakes up, wakes up in elevator
-2,1,15:24,iMark,Bb,innie,enters,Doors open for Mark
-2,1,15:29,iMark,Bb,innie,exits,Doors open for Mark
-2,1,18:40,iMark,Bb,innie,enters,Doors open for Mark
-2,1,19:12,iMark,G,innie,sleeps,goes to sleep in elevator
-2,1,20:06,iMark,C#,innie,wakes up, wakes up in elevator
-2,1,20:50,iDylan,Bb,innie,exits, Doors open for Dylan
-2,1,21:18,iIrving,Bb,innie,exits,Doors open for Irving
-2,1,22:00,Helena,B natural,innie,exits,Doors open for 'Helly'
-2,2,37:00,oMark,Bb,outie,enters,Doors open for Mark
-2,2,37:02,oMark,Bb,outie,exits,Doors open for Mark
-2,2,37:10,oMark,Bb,outie,exits,Doors open for Mark
-2,2,37:26,oMark,G,outie,sleeps,goes to sleep in elevator
-2,2,37:31,oMark,C#,outie,wakes up,we see a zoom in on Mark's eye
-2,2,37:37,oMark,C#,outie,wakes up,we see the door and presume Mark is inside waking up (but no visual confirmation)
-2,2,37:39,oMark,Bb,outie,exits,Doors open for Mark
-2,2,39:45,oMark,Bb,outie,enters,Doors open for Mark
-2,2,39:52,oMark,G,outie,sleeps,goes to sleep in elevator
-2,2,40:20,oDylan,Bb,outie,enters,Doors open for Dylan
-2,2,40:27,oDylan,G,outie,sleeps,goes to sleep in elevator
-2,2,40:51,oIrving,Bb,outie,enters,Doors open for Irving
-2,2,40:57,oIrving,G,outie,sleeps,goes to sleep in elevator
-2,2,41:33,Helena,Bb,outie,enters,Doors open for Helena
-2,4,00:15,iIrving,G,innie,wakes up, Irving wakes up on a frozen lake at Woe's Hollow
-2,4,47:14,Helly,C#,innie,wakes up,Helly wakes up after Milchick removes the Glasgow
-2,5,03:30,Exports hall man [Doctor],Bb,innie,enters,Export hall doors open
-2,5,03:43,Exports hall man [Doctor],Bb,innie,enters,Export hall doors close
-2,5,09:27,Helena,Bb,outie,enters,Doors open for Helena
-2,5,09:47,Helena,C#,innie,wakes up,Helly wakes up on severed floor
-2,5,34:05,iMark,Bb,innie,enters, Doors open for Mark
-2,5,35:56,iMark,Bb,innie,enters, Doors close for Mark after Milchick threatens him on the elevator
-2,7,10:50,Gemma,C#,innie,wakes up, Gemma wakes up in Dentist room (Wellington)
-2,7,34:29,Gemma,C#,innie, wakes up, Gemma wakes up to a Christmas scene where she is writing thank you notes (Allentown)
-2,7,42:18,Gemma,Bb,outie,enters,Doors open for Gemma
-2,7,42:25,Gemma,G,outie,sleeps,Gemma transitions in exports hall elevator
-2,7,43:32,Gemma,C#,innie,wakes up,Ms.Casey wakes up in exports hall
-2,7,45:15,Gemma,Bb,innie,enters, Doors open for Ms. Casey in exports hall
-2,9,13:13,Helena,B natural,innie,exits, Doors open for Helly/Helena on the severed floor
-2,9,40:05,iDylan,Bb,innie,enters,Doors close for Dylan
+1,5,00:35,Helena,B natural,outie,enters,"Elevator doors open, Helena inside",severed floor
+1,5,00:43,Helena,B natural,outie,enters,"Elevator doors close again, Helena still inside",severed floor
+1,5,01:26,Helena,B natural,outie,exits,Elevator doors open to Mark,severed floor
+1,5,02:16,iMark,Bb,innie,enters,"Graner scans Mark into the elevator, doors begin to close",severed floor
+1,5,02:24,iMark,G,innie,sleeps,goes to sleep in the elevator,
+1,5,02:29,oMark,C#,outie,wakes up,wakes up in the elevator,
+1,5,02:36,oMark,Bb,outie,exits,Elevator doors close behind oMark,upstairs
+1,5,04:28,oMark,G,outie,sleeps,goes to sleep in the elevator,
+1,5,04:29,iMark,C#,innie,wakes up,wakes up in the elevator,
+1,5,08:32,iMark,Bb,innie,enters,"Elevator up button turns on; cut to oMark leaving",severed floor
+1,5,19:32,iMark,Bb,innie,enters,"Elevator doors open to Mark, Helly inside",severed floor
+1,6,27:41,iDylan,C#,innie,wakes up,wakes up at home,
+1,6,28:26,oDylan,C#,outie,wakes up,wakes back up,
+1,8,04:45,oMark,G,outie,sleeps,"MDR's outie forms go to sleep in the elevator, four G pitches",
+1,8,04:46,oDylan,G,outie,sleeps,"MDR's outie forms go to sleep in the elevator, four G pitches",
+1,8,04:47,oIrving,G,outie,sleeps,"MDR's outie forms go to sleep in the elevator, four G pitches",
+1,8,04:48,Helena,G,outie,sleeps,"MDR's outie forms go to sleep in the elevator, four G pitches",
+1,8,04:49,MDR,C#,innie,wakes up,"The innies wake up in the elevator",
+1,8,17:43,Gemma,Bb,,testing,is sent down to the testing floor,severed floor
+1,8,29:17,iIrving,Bb,innie,enters,Elevator opens for Irving. Does not ding for Helly soon after.,severed floor
+1,8,30:15,Helly,Bb,innie,enters,Doors close for Helly. Did not ding for Irving soon before.,severed floor
+1,8,30:41,Helly,Bb,innie,enters,Doors close again for Helly,severed floor
+1,8,31:05,iMark,Bb,innie,enters,Doors open for Mark,severed floor
+1,9,00:13,oMDR,G,outie,sleeps,go to sleep on the outside,
+1,9,00:16,iMDR,C#,innie,wakes up,wake up on the outside,
+1,9,38:40,,C#,,,"Last sound of Episode 9",
+2,1,00:30,iMark,C#,innie,wakes up,wakes up in long hallway,
+2,1,13:07,iMark,Bb,innie,enters,Doors open for Mark,severed floor
+2,1,13:12,iMark,G,innie,sleeps,goes to sleep in elevator,
+2,1,13:15,iMark,C#,outie,wakes up, wakes up in elevator,
+2,1,13:21,iMark,G,innie,wakes up, wakes up in elevator,
+2,1,15:24,iMark,Bb,innie,enters,Doors open for Mark,severed floor
+2,1,15:29,iMark,Bb,innie,exits,Doors open for Mark,severed floor
+2,1,18:40,iMark,Bb,innie,enters,Doors open for Mark,severed floor
+2,1,19:12,iMark,G,innie,sleeps,goes to sleep in elevator,
+2,1,20:06,iMark,C#,innie,wakes up, wakes up in elevator,
+2,1,20:50,iDylan,Bb,innie,exits, Doors open for Dylan,severed floor
+2,1,21:18,iIrving,Bb,innie,exits,Doors open for Irving,severed floor
+2,1,22:00,Helena,B natural,innie,exits,Doors open for 'Helly',severed floor
+2,2,37:00,oMark,Bb,outie,enters,Doors open for Mark,upstairs
+2,2,37:02,oMark,Bb,outie,exits,Doors open for Mark,upstairs
+2,2,37:10,oMark,Bb,outie,exits,Doors open for Mark,upstairs
+2,2,37:26,oMark,G,outie,sleeps,goes to sleep in elevator,
+2,2,37:31,oMark,C#,outie,wakes up,we see a zoom in on Mark's eye,
+2,2,37:37,oMark,C#,outie,wakes up,we see the door and presume Mark is inside waking up (but no visual confirmation),
+2,2,37:39,oMark,Bb,outie,exits,Doors open for Mark, upstairs
+2,2,39:45,oMark,Bb,outie,enters,Doors open for Mark,upstairs
+2,2,39:52,oMark,G,outie,sleeps,goes to sleep in elevator,
+2,2,40:20,oDylan,Bb,outie,enters,Doors open for Dylan,upstairs
+2,2,40:27,oDylan,G,outie,sleeps,goes to sleep in elevator,
+2,2,40:51,oIrving,Bb,outie,enters,Doors open for Irving,upstairs
+2,2,40:57,oIrving,G,outie,sleeps,goes to sleep in elevator,
+2,2,41:33,Helena,Bb,outie,enters,Doors open for Helena,upstairs
+2,4,00:15,iIrving,G,innie,wakes up, Irving wakes up on a frozen lake at Woe's Hollow,
+2,4,47:14,Helly,C#,innie,wakes up,Helly wakes up after Milchick removes the Glasgow,
+2,5,03:30,Exports hall man [Doctor],Bb,innie,enters,Export hall doors open,severed floor
+2,5,03:43,Exports hall man [Doctor],Bb,innie,enters,Export hall doors close,severed floor
+2,5,09:27,Helena,Bb,outie,enters,Doors open for Helena,upstairs
+2,5,09:47,Helena,C#,innie,wakes up,Helly wakes up on severed floor,
+2,5,34:05,iMark,Bb,innie,enters, Doors open for Mark,severed floor
+2,5,35:56,iMark,Bb,innie,enters, Doors close for Mark after Milchick threatens him on the elevator,severed floor
+2,7,10:50,Gemma,C#,innie,wakes up, Gemma wakes up in Dentist room (Wellington),
+2,7,34:29,Gemma,C#,innie, wakes up, Gemma wakes up to a Christmas scene where she is writing thank you notes (Allentown),
+2,7,42:18,Gemma,Bb,outie,enters,Doors open for Gemma,severed floor
+2,7,42:25,Gemma,G,outie,sleeps,Gemma transitions in exports hall elevator,
+2,7,43:32,Gemma,C#,innie,wakes up,Ms.Casey wakes up in exports hall,
+2,7,45:15,Gemma,Bb,innie,enters, Doors open for Ms. Casey in exports hall,severed floor
+2,9,13:13,Helena,B natural,innie,exits, Doors open for Helly/Helena on the severed floor,severed floor
+2,9,40:05,iDylan,Bb,innie,enters,Doors close for Dylan,severed floor
