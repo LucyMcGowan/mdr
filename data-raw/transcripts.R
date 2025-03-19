@@ -31,7 +31,18 @@ clean_transcript <- function(file, season, episode) {
 
 ## Add S2E5
 
-transcripts <- bind_rows(transcripts,
-                         clean_transcript("data-raw/s2e5_transcript.txt", 2, 5))
+# transcripts <- bind_rows(transcripts,
+#                          clean_transcript("data-raw/s2e5_transcript.txt", 2, 5))
+
+## Add S2E6, E7, E8
+
+# transcripts <- bind_rows(transcripts,
+#                          clean_transcript("data-raw/s2e6_transcript.txt", 2, 6))
+#
+# transcripts <- bind_rows(transcripts,
+#                          clean_transcript("data-raw/s2e7_transcript.txt", 2, 7))
+#
+# transcripts <- bind_rows(transcripts,
+#                          clean_transcript("data-raw/s2e8_transcript.txt", 2, 8))
 
 usethis::use_data(transcripts, overwrite = TRUE)
