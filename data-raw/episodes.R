@@ -1,3 +1,3 @@
-## code to prepare `DATASET` dataset goes here
-
-usethis::use_data(DATASET, overwrite = TRUE)
+library(tidyverse)
+episodes <- read_csv("data-raw/episodes.csv")
+usethis::use_data(episodes, overwrite = TRUE)
